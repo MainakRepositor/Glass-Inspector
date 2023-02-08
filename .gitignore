@@ -1,0 +1,11 @@
+__pycache__
+.DS_Store
+.ipynb_checkpoints
+model/exp_arch
+model/exp_multitask
+model/exp_trainsize
+manuscript/dev/
+data/dev/
+dev/
+figures/dev/
+*.job
